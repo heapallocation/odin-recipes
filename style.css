@@ -24,8 +24,10 @@ h1 {
 }
 
 .image {
+    display: block;
     border: 5px solid #222;
     border-radius: 12px;
+    margin: 16px auto 30px auto;
 }
 
 li {
