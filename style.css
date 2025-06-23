@@ -13,16 +13,31 @@ body {
     padding: 8px;
 }
 
+.page-container {
+    margin: 16px auto;
+    width: 100%;
+    max-width: 900px;
+}
+
+h1 {
+    text-align: center;
+}
+
 li {
     margin: 8px 0 8px 0;
 }
 
-ul {
+ul, ol {
     padding: 8px;
-    margin: 20px;
+    margin: 20px 35px;
 }
 
-.list {
+.list-container {
     background-color: #FFC0CB;
-    border-radius: 5px;
+    border-radius: 12px;
+    border: 5px solid #222;
+}
+
+.bullet-list {
+    font-weight: bold;
 }
