@@ -36,7 +36,7 @@ li {
 
 ul, ol {
     padding: 8px;
-    margin: 20px 35px;
+    margin: 20px 28px 20px 35px;
 }
 
 .container {
@@ -47,4 +47,24 @@ ul, ol {
 .bullet-list {
     background-color: #FFC0CB;
     font-weight: bold;
+}
+
+p {
+    margin: 20px;
+}
+
+.ingredients-background {
+    background-color: #FDFD96;
+}
+
+.description-background {
+    background-color: #FFC0CB;
+}
+
+.method-background {
+    background-color: #C4A1FF;
+}
+
+.recipe-notes-background {
+    background-color: #BAFCA2;
 }
