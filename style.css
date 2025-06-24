@@ -39,12 +39,12 @@ ul, ol {
     margin: 20px 35px;
 }
 
-.list-container {
-    background-color: #FFC0CB;
+.container {
     border-radius: 12px;
     border: 5px solid #222;
 }
 
 .bullet-list {
+    background-color: #FFC0CB;
     font-weight: bold;
 }
