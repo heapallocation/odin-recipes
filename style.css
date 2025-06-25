@@ -68,3 +68,22 @@ p {
 .recipe-notes-background {
     background-color: #BAFCA2;
 }
+
+footer {
+    margin: 20px 0;
+}
+
+.inline-link {
+    border-radius: 12px;
+    border: 5px solid #222;
+    padding: 8px;
+    background-color: #FDFD96;
+}
+
+.nav-link {
+    border-radius: 12px;
+    border: 5px solid #222;
+    padding: 8px;
+    background-color: #FFC0CB;
+
+}
